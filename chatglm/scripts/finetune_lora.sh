@@ -18,9 +18,9 @@ SAVE_INTERVAL=24000
 MAX_SEQ_LEN=2048
 
 RUN_NAME=EED_4epoch
-BASE_MODEL_PATH=chatglm-6b-base
+BASE_MODEL_PATH=THUDM/chatglm3-6b
 #LORA_PATH=/mnt/haofei/MSA/ChatGLM3/finetune_basemodel_demo/output/ERC-20231215-110621-1e-4/pytorch_model.pt
-DATASET_PATH=../data/EED/EED4LLM_6000.json
+DATASET_PATH=../Data/EED/EED4LLM_6000.json
 DATESTR=`date +%Y%m%d-%H%M%S`
 OUTPUT_DIR=output/${RUN_NAME}-${DATESTR}-${LR}
 #OUTPUT_DIR=/mnt/haofei/MSA/ChatGLM3/finetune_basemodel_demo/chatglm3-6b-finetuned
