@@ -32,7 +32,7 @@ class LoRATrainer(Trainer):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-    def compute_loss(self, model, inputs, return_outputs=False):
+    def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
         return model(**inputs).loss
 
     def save_model(self, output_dir=None, _internal_call=False):
