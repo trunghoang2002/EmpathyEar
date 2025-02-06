@@ -21,7 +21,7 @@ class StyleTTS2:
 
         self.global_phonemizer = phonemizer.backend.EspeakBackend(language='en-us', preserve_punctuation=True,
                                                              with_stress=True)
-        self.config = yaml.safe_load(open("StyleTTS2/StyleTTS2-LibriTTS/Models/LibriTTS/Models_LibriTTS_config.yml"))
+        self.config = yaml.safe_load(open("StyleTTS2/StyleTTS2-LibriTTS/Models/LibriTTS/config.yml"))
         self.model = self.initialize_model()
         self.sampler = DiffusionSampler(
             self.model.diffusion.diffusion,

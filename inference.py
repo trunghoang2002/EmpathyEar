@@ -132,7 +132,7 @@ def main():
     parser.add_argument("--lora-alpha", type=float, default=32, help="LoRA alpha")
     parser.add_argument("--lora-rank", type=int, default=8, help="LoRA r")
     parser.add_argument("--lora-dropout", type=float, default=0.1, help="LoRA dropout")
-    parser.add_argument("--test-data", type=str, default="data/empathetic-dialogue-emb/sys_dialog_texts.test.npy")
+    parser.add_argument("--test-data", type=str, default="Data/empathetic-dialogue-emb/sys_dialog_texts.test.npy")
     parser.add_argument("--wav_save_path", type=str, default="TTS_results/ED_test/")
     parser.add_argument("--mp4_save_path", type=str, default="MP4_results/ED_test/")
     parser.add_argument("--driven_video", type=str, default="EAT/demo/video_processed/template")
@@ -162,7 +162,8 @@ def main():
     
     test_data = read_npy(args.test_data)
     
-
+    all_responses = {}
+    res_i = 0
     for num, test_dia in enumerate(test_data):
         wav_save_path = args.wav_save_path + f'test{num+1}'
         mp4_save_path = args.mp4_save_path + f'test{num+1}'
@@ -197,6 +198,8 @@ def main():
                             max_length=chatglm_inputs["input_ids"].shape[-1] + args.max_new_tokens)
         response = response[0, chatglm_inputs["input_ids"].shape[-1]:]
         text_response = chatglm_tokenizer.decode(response, skip_special_tokens=True)
+        all_responses[res_i] = text_response
+        res_i += 1
         print(text_response)
         print("************************************************************************************************")
 
@@ -258,6 +261,9 @@ def main():
         #wav2talkingface
         eat = EAT(root_wav=wav_save_path)
         eat.tf_generate(agent_age, agent_gender, emotion_type, save_dir=mp4_save_path)
+    
+    with open('ED_test_results.json', 'w', encoding="utf-8") as f:
+        json.dump(all_responses, f, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":

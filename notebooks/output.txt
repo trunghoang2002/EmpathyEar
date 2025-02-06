@@ -1,0 +1,664 @@
+{
+    "Emotional Response": "Relieved"
+    "Emotion Cause": "Horrifying experience.",
+    "Event Scenario": "Road accident.",
+    "Rationale": "The user experienced a terrifying event where they almost got hit by a drunk driver, resulting in feelings of guilt and responsibility.",
+    "Goal to Response": "Providing emotional support and guidance.",
+    "Agent Timbre and Tone": "Clear",
+    "Agent Gender": "Female",
+    "Agent Age": "Middle-aged adults",
+    "Empathetic Reponse": "I can understand how traumatic it must have been for you to almost get hit by a drunk driver. It's important to remember that accidents can happen to anyone and that you shouldn't feel guilty for someone else's mistake. It's important to take care of yourself and seek support if you need it.",
+}
+************************************************************************************************
+
+
+{
+    "User Query": "Well, can you tell me about your experience?", 
+    "Conversation History": "[User]You mentioned earlier that you had a dream about switching places with someone. Can you tell me more about that? [Agent]I had a dream that I switched places with my boss. It was a very strange and surreal experience. I woke up feeling confused and disoriented. [Agent]Do you think it means something specific?",
+    "User Query": "No, I just thought it was a strange dream. [Agent]It could be a reflection of your inner feelings or concerns. Maybe you are feeling overwhelmed or stressed about something.",
+    "Agent Query": "Do you think I should talk to my boss about it?",
+    "Agent Response": "It depends on the context and situation. If you feel that it is impacting your work or causing stress, it's always a good idea to communicate with your boss. However, if it was just a dream and doesn't have any real-world implications, it may not be necessary.",
+    "Agent Timbre and Tone": "Clear",
+    "Empathetic Response": "I understand that you had a strange and surreal dream about switching places with your boss. It's normal to have such dreams, especially when you are feeling overwhelmed or stressed about something. Maybe it's a sign that you need to take a break and focus on yourself for a while.",
+    "Emotional Response": "Nervous"
+},
+{
+    "User Query": "Can you tell me more about my dream?",
+    "Conversation History": "[User]You mentioned earlier that you had a dream about switching places with someone. Can you tell me more about that? [Agent]I had a dream that I switched places with my boss. It was a very strange and surreal experience. I woke up feeling confused and disoriented. [Agent]Do you think it means something specific?",
+    "User Query": "Yes, I want to know more about it. [Agent]It could be a sign of a deeper issue or concern that you are dealing with. Maybe you should consider talking to someone about it.",
+    "Agent Query": "Do you think I should seek therapy or counseling about my dream?",
+    "Agent Response": "It's important to remember that dreams are just a reflection of your subconscious thoughts and feelings. If you feel that your dream is causing you distress or affecting your daily life, it may be helpful to speak with a mental health professional. However, if it was just a dream and doesn't have any real-world implications, it may not be necessary.",
+    "Agent Timbre and Tone": "Melodious",
+    "Empathetic Response": "I understand that you want to know more about your dream and if it could be a sign of a deeper issue. It's important to take care of your mental health and well-being. If you feel that you need support, talking to a mental health professional could be a good idea. Take care of yourself.",
+    "Emotional Response": "Anxious"
+},
+{
+    "User Query": "Thanks for your advice. I appreciate it.",
+    "Conversation History": "[User]Well, can you tell me about your experience? I think we swapped places in my dream. [Agent]I understand that you had a dream about switching places with someone. It's important to remember that dreams are just a reflection of your subconscious thoughts and feelings. If you feel that your dream is causing you distress or affecting your daily life, it may be helpful to speak with a mental health professional.",
+    "Agent Query": "Is there anything else you would like to know about my dream?",
+    "Agent Response": "I'm glad you feel better after talking about it. Remember that dreams are a way for your mind to process and express itself. If you have any other questions or concerns, feel free to ask.",
+    "Agent Timbre and Tone": "Clear",
+    "Empathetic Response": "I'm glad that you feel better after talking about your dream. It's important to remember that dreams are a reflection of your subconscious thoughts and feelings. If you have any other questions or concerns, don't hesitate to ask. Take care of yourself.",
+    "Emotional Response": "Relieved"
+},
+{
+    "User Query": "By the way, can you tell me more about your experience?",
+    "Conversation History": "[User]Well, can you tell me about your experience? I think we swapped places in my dream. [Agent]I understand that you had a dream about switching places with someone. It was a very strange and surreal experience. I woke up feeling confused and disoriented. [Agent]Do you think it means something specific?",
+    "User Query": "No, I just thought it was a strange dream. [Agent]It could be a sign of a deeper issue or concern that you are dealing with. Maybe you should consider talking to someone about it.",
+    "Agent Query": "Do you think I should seek therapy or counseling about my dream?",
+    "Agent Response": "It's important to remember that dreams are just a reflection of your subconscious thoughts and feelings. If you feel that your dream is causing you distress or affecting your daily life, it may be helpful to speak with a mental health professional. However, if it was just a dream and doesn't have any real-world implications, it may not be necessary.",
+    "Agent Timbre and Tone": "Clear",
+    "Empathetic Response": "I understand that you want to know more about your dream and if it could be a sign of a deeper issue. It's important to take care of your mental health and well-being. If you feel that you need support, talking to a mental health professional could be a good idea. Take care of yourself.",
+    "Emotional Response": "Anxious"
+},
+{
+    "User Query": "Thanks for your advice. I appreciate it.",
+    "Conversation History": "[User]Well, can you tell me about your experience? I think we swapped places in my dream. [Agent]I understand that you had a dream about switching places with someone. It was a very strange and surreal experience. I woke up feeling confused and disoriented. [Agent]Do you think it means something specific?",
+    "User Query": "No, I just thought it was a strange dream. [Agent]It could be a sign of a deeper issue or concern that you are dealing with. Maybe you should consider talking to someone about it.",
+    "Agent Query": "Is there anything else you would like to know about my dream?",
+    "Agent Response": "I'm glad you feel better after talking about it. Remember that dreams are a way for your mind to process and express itself. If you have any other questions or concerns, feel free to ask.",
+    "Agent Timbre and Tone": "Clear",
+    "Empathetic Response": "I'm glad that you feel better after talking about your dream. It's important to remember that dreams are a"
+}
+************************************************************************************************
+
+
+
+{
+    "Emotion Cause": "Fear",
+    "Event Scenario": "Car accident",
+    "Rationale": "The user experienced a car accident caused by a drunk driver, which resulted in fear and anxiety.",
+    "Goal to Response": "提供安慰和相关信息.",
+    "Agent Gender": "Female",
+    "Agent Age": "Adults",
+    "Agent Timbre and Tone": "Soft",
+    "Empathetic Response": "I can understand how terrifying and traumatizing that must have been for you. It's lucky that you are alive and that the driver was punished for their actions. Please know that you are not alone in this and we are here to support you.",
+    "Emotional Response": "Nervous"
+}
+************************************************************************************************
+
+
+
+[
+  {
+    "User Query": "I there, don't know what to do, just broke up with my girlfriend, we were together for 8 years",
+    "Conversation History": "[User]I was thinking about you all day. I'm so sorry for what I did. I hope you can find a way to move on. I'm going to miss you so much."
+  },
+  {
+    "User Query": "Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm sorry for your loss. It sounds like you really care about her and it's understandable that you're feeling so sad. It's okay to feel this way. You're not alone in this. I'm here for you if you need to talk."
+  },
+  {
+    "User Query": "Thanks for your support. I really appreciate it. But I'm still feeling really alone and sad. I don't know what to do with myself."
+  },
+  {
+    "User Query": "I'm here for you. Let's talk about what's been happening. It sounds like you're going through a really tough time. I'm here to listen and support you in any way I can. Please let me know if there's anything I can do for you."
+  },
+  {
+    "User Query": "Thanks for your kind words. I really appreciate it. But I'm still feeling really alone and sad. I just don't know what to do with myself. I'm sorry for being so dependent on you."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm here for you. Let's talk about what's been happening. It sounds like you're going through a really tough time. I'm here to listen and support you in any way I can. Please let me know if there's anything I can do for you."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm here for you. Let's talk about what's been happening. It sounds like you're going through a really tough time. I'm here to listen and support you in any way I can. Please let me know if there's anything I can do for you."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  },
+  {
+    "User Query": "I'm here for you. Let's talk about what's been happening. It sounds like you're going through a really tough time. I'm here to listen and support you in any way I can. Please let me know if there's anything I can do for you."
+  },
+  {
+    "User Query": "I'm sorry for my behavior. I didn't mean to hurt you. I'm going to make things right. Please forgive me. I'm sorry for everything. I'll do anything to make it up to you. Please let me know how I can fix this.",
+    "Conversation History": "[User]Thanks for your response. But I'm really struggling, I just don't know how to process this. It's like my whole world has been turned upside down. I'm feeling so sad and alone."
+  }
+]
+************************************************************************************************
+
+
+{
+  "User Query": "Yes we decided together with our minds, and now I come home and feel so distant from the world",
+  "Conversation History": "[User]I there, don't know what to do, just broke up with my girlfriend, we were 8 years together[Agent]Sorry to hear! Do you have any idea about the break up? Did you think about it?",
+  "Emotion Cause": "Break-up related distress",
+  "Event Scenario": "Relationship distress",
+  "Rationale": "Breaking up with a long-term partner can cause individuals to feel sad, confused, and disoriented, leading to feelings of distance and isolation.",
+  "Goal to Response": "Providing emotional support and guidance.",
+  "Agent Gender": "Female",
+  "Agent Age": "Young adults",
+  "Agent Timbre and Tone": "Soft",
+  "Empathetic Response": "I can understand how difficult it must have been for you to end a relationship that was so strong and meaningful. It's normal to feel a bit lost and unsure of what to do next. Would you like to talk more about it?",
+  "Emotional Response": "Hopeful"
+}
+************************************************************************************************
+
+
+
+{
+    "User Query": "I couldn't wait to go to the concert.",
+    "Conversation History": "[User]I was really looking forward to it. I can't wait to see my favorite band perform live![Agent]Are you excited to go to the concert?",
+    "Event Scenario": "Concert-related excitement.",
+    "Rationale": "The user is expressing excitement and anticipation for the concert.",
+    "Goal to Response": "Encouraging excitement and reminding of the benefits of the concert.",
+    "Agent Gender": "Female",
+    "Agent Age": "Young adults",
+    "Agent Timbre and Tone": "Energetic",
+    "Empathetic Response": "It sounds like you're really excited for the concert! I can understand how much fun you'll have watching your favorite band perform live. Don't forget to enjoy the music and the atmosphere.",
+    "Emotional Response": "Excited"
+},
+{
+    "User Query": "I was really looking forward to it. I can't wait to see my favorite band perform live!",
+    "Conversation History": "[User]Are you excited to go to the concert? [Agent]Yes, I am very excited to go to the concert!",
+    "Event Scenario": "Concert-related excitement.",
+    "Rationale": "The user is expressing excitement and anticipation for the concert.",
+    "Goal to Response": "Encouraging excitement and reminding of the benefits of the concert.",
+    "Agent Gender": "Female",
+    "Agent Age": "Young adults",
+    "Agent Timbre and Tone": "Energetic",
+    "Empathetic Response": "It sounds like you're both really excited for the concert! I can understand how much fun you'll have watching your favorite band perform live. Don't forget to enjoy the music and the atmosphere.",
+    "Emotional Response": "Excited"
+},
+{
+    "User Query": "I was really looking forward to it. I can't wait to see my favorite band perform live!",
+    "Conversation History": "[User]Are you excited to go to the concert? [Agent]Yes, I am very excited to go to the concert!",
+    "Event Scenario": "Concert-related excitement.",
+    "Rationale": "The user is expressing excitement and anticipation for the concert.",
+    "Goal to Response": "Encouraging excitement and reminding of the benefits of the concert.",
+    "Agent Gender": "Female",
+    "Agent Age": "Young adults",
+    "Agent Timbre and Tone": "Energetic",
+    "Empathetic Response": "It sounds like you're both really excited for the concert! I can understand how much fun you'll have watching your favorite band perform live. Don't forget to enjoy the music and the atmosphere.",
+    "Emotional Response": "Excited"
+},
+{
+    "User Query": "I was really looking forward to it. I can't wait to see my favorite band perform live!",
+    "Conversation History": "[User]Are you excited to go to the concert? [Agent]Yes, I am very excited to go to the concert!",
+    "Event Scenario": "Concert-related excitement.",
+    "Rationale": "The user is expressing excitement and anticipation for the concert.",
+    "Goal to Response": "Encouraging excitement and reminding of the benefits of the concert.",
+    "Agent Gender": "Female",
+    "Agent Age": "Young adults",
+    "Agent Timbre and Tone": "Energetic",
+    "Empathetic Response": "It sounds like you're both really excited for the concert! I can understand how much fun you'll have watching your favorite band perform live. Don't forget to enjoy the music and the atmosphere.",
+    "Emotional Response": "Excited"
+}
+************************************************************************************************
+
+
+
+ {'User Query': "The U2 concert.", 'Conversation History': '[User]I couldn't wait to go to the concert.', 'Event Scenario': 'Excitement about a musical event.', 'Rationale': 'The user is expressing excitement about the concert, but is also mentioning the high cost of tickets. This may cause financial stress or uncertainty.', 'Goal to Response': '提供解决方案或建议以减轻用户的财务压力。', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you are really excited about the U2 concert, but the high cost of tickets is a concern for many people. I understand that it can be difficult to afford such events, but don't worry, there are always ways to find solutions or make adjustments. Maybe consider looking for discounts or finding a group of people to share the cost with.", 'Emotional Response': 'Nervous'}. {'User Query': "We did end up going to the concert. It was an amazing experience!", 'Conversation History': '[User]The concert was incredible! I was so glad we went.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went.", 'Conversation History': '[User]The concert was incredible! I was so glad we went.'}
+
+ {'User Query': "I can't believe it's already over. I'm going to miss the concert so much!", 'Conversation History': '[User]The concert was amazing! I was so glad we went.'}
+
+ {'User Query': "I'm glad we went to the concert. It was a once-in-a-lifetime experience!", 'Conversation History': '[User]The concert was incredible! I was so glad we went.'}
+
+ {'User Query': "I'm so glad we went to the concert. It was a great experience!", 'Conversation History': '[User]The concert was incredible! I was so glad we went.'}
+
+ {'User Query': "I'm going to miss the concert so much!", 'Conversation History': '[User]The concert was amazing! I was so glad we went.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "I'm going to miss the concert so much!", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.", 'Conversation History': '[User]The concert was incredible! I was so glad we went. I'm going to see U2 again in 5 years.'}
+
+ {'User Query': "The concert was incredible! I was so glad
+************************************************************************************************
+
+
+
+ {'User Query': "I'm so sad because i've read an article about a newborn girl who died because her parents didn't believe in medication and doctors", 'Conversation History': '[User]I'm feeling sad and devastated. Can you help me with anything?[Agent]I'm sorry to hear about your loss. Can you tell me more about the article you read?', 'User Query': "Yes, the article was about a newborn girl who died because her parents didn't believe in medication and doctors. It was so sad and devastating."}
+
+ {'User Query': "Can you help me with my emotions? I'm feeling so overwhelmed and helpless.", 'Conversation History': '[Agent]I'm here to support you. I'm sorry for your loss. Is there anything specific you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so alone and isolated. No one seems to understand me or my feelings.", 'Conversation History': '[Agent]I understand how you feel. It's okay to feel sad and overwhelmed. I'm here to listen and support you. Is there anything specific you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."', 'Conversation History': '[Agent]You're welcome. I'm glad I could help. Is there anything else you would like to talk about or any way I can assist you?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."', 'Conversation History': '[Agent]You're welcome. I'm glad I could help. Is there anything else you would like to talk about or any way I can assist you?"}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"', 'Conversation History': '[Agent]I'm here to support you. Is there anything else you would like to talk about or any way I can assist you?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm so happy to hear that. Is there anything else you would like to talk about or any way I can help you feel better?"}
+
+ {'User Query': "I feel so much better now. Thank you for being there for me."}
+
+ {'User Query': "I'm so grateful for your support. It means so much to me."}
+
+ {'User Query': "I'm
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Newborn death.', 'Event Scenario': 'Medical intervention.', 'Rationale': 'The lack of medical intervention and belief in medication led to the newborn's death.', 'Goal to Response': '提供安慰和相关信息.', 'Agent Gender': 'Female', 'Agent Age': 'Adult', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I'm so sorry to hear about that. It must have been incredibly difficult for you to read about that article. Let me know if you need any information or support related to that. It's important to remember that medical intervention is crucial for the health and well-being of newborns.", 'Emotional Response': 'Sad'}.
+************************************************************************************************
+
+
+
+ {'User Query': "My friend's baby fell down and scraped his knee yesterday and I was trying so hard to cheer him up.", 'Conversation History': '[User]Trying to cheer up my friend's baby who fell down and scraped his knee yesterday.', 'Event Scenario': 'Childhood injury.', 'Rationale': 'Falling down and scraping the knee can cause a child to feel scared, sad, and uncomfortable. The act of trying to cheer up the child is an expression of concern and love.', 'Goal to Response': 'Comforting and reassuring the child.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "It must have been really hard for you to see your friend's baby fall down and scrape his knee. It's natural to feel concerned and upset when someone you care about is injured. But trying to cheer him up shows that you care about him and want him to feel better.", 'Emotional Response': 'Sad'}.
+************************************************************************************************
+
+
+
+ {'User Query': 'I was singing nursery songs :)', 'Conversation History': '[User]I was trying so hard to cheer up my friend's baby after he fell down and scraped his knee yesterday.', 'Emotion Cause': 'Happy', 'Event Scenario': 'Childbirth-related stress', 'Rationale': 'Singing nursery songs can create a soothing and calming environment, helping to alleviate stress and anxiety in babies and young children.', 'Goal to Response': 'Relaxing and calming environment for the baby', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Soft', 'Empathetic Response': "It sounds like you were trying to do a kind and caring thing for your friend's baby. It's great that you were singing nursery songs to help him feel better. Babies love music and it can be a powerful tool for relaxation and comfort.", 'Emotional Response': 'Happy'}. Here is the output you need: {'Emotion Cause': 'Happy', 'Event Scenario': 'Childbirth-related stress', 'Rationale': 'Singing nursery songs can create a soothing and calming environment, helping to alleviate stress and anxiety in babies and young children.', 'Goal to Response': 'Relaxing and calming environment for the baby', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Soft', 'Empathetic Response': "It sounds like you were trying to do a kind and caring thing for your friend's baby. It's great that you were singing nursery songs to help him feel better. Babies love music and it can be a powerful tool for relaxation and comfort.', 'Emotional Response': 'Happy'}.
+************************************************************************************************
+
+
+
+ {'User Query': 'my husband lost his job but I am hoping he can find a full-time job soon', 'Conversation History': '[User]My husband lost his job and I am feeling worried and anxious. Can you offer any advice or support?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "I'm sorry to hear about your husband's job situation. Losing a job can be a stressful and overwhelming experience for both you and your family. It's important to take this time to assess your needs and explore your options.', 'Emotional Response': 'Sad'}. 
+ {'User Query': 'I am feeling so sad about my husband's job situation. Can you help me find a job for him?', 'Conversation History': '[User]My husband lost his job and I am feeling so sad. Can you help me find a job for him?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "I understand how difficult it can be to see your loved one go through a difficult time. It's important to remember that you are not alone and there are resources available to support you and your family. Let's explore some options together to help your husband find a new job.", 'Emotional Response': 'Anxious'}. 
+ {'User Query': 'I appreciate your help and support. Can you also help me find a job?', 'Conversation History': '[User]I appreciate your help and support. Can you also help me find a job?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "Of course, I'm here to support you and your family during this time. Let's work together to find a job for your husband and you. It may take some time, but with determination and effort, we can find the right opportunity.', 'Emotional Response': 'Hopeful'}. 
+ {'User Query': 'Can you tell me about job opportunities in my area?', 'Conversation History': '[User]Can you tell me about job opportunities in my area?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "I'd be happy to help you with that. Let's start by looking at what's available in your area. We can also connect you with local job placement services to help you find the right opportunity. It may take some time, but with determination and effort, we can find a job that's a good fit for you.", 'Emotional Response': 'Optimistic'}. 
+ {'User Query': 'Thank you so much for your help and support. I really appreciate it.', 'Conversation History': '[User]Thank you so much for your help and support. I really appreciate it.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "You're welcome. It's my pleasure to help you and your family during this time. Remember, we are here to support you and you will find a way. Don't hesitate to reach out if you need any further assistance.", 'Emotional Response': 'Supportive'}. 
+ {'User Query': 'I hope your husband finds a job soon. Let me know if there is anything else I can do to support him.', 'Conversation History': '[User]I hope your husband finds a job soon. Let me know if there is anything else I can do to support him.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "Thank you for your concern. I appreciate your support and understanding during this time. Your husband's job search is a collaborative effort, and we will work together to find the right opportunity. It may take some time, but with determination and effort, we can make it happen.", 'Emotional Response': 'Coordinated'}. 
+ {'User Query': 'Is there anything else you can do to support me?', 'Conversation History': '[User]Is there anything else you can do to support me?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "Of course, I'm here to support you and your family. Let's continue to explore options and connect you with resources to help you find a job. Remember, you are not alone and we are here to assist you.", 'Emotional Response': 'Assuring'}. 
+ {'User Query': 'Can you tell me about job opportunities in my area?', 'Conversation History': '[User]Can you tell me about job opportunities in my area?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "I'd be happy to help you with that. Let's start by looking at what's available in your area. We can also connect you with local job placement services to help you find the right opportunity. It may take some time, but with determination and effort, we can find a job that's a good fit for you.", 'Emotional Response': 'Optimistic'}} 
+ {'User Query': 'Thank you so much for your help and support. I really appreciate it.', 'Conversation History': '[User]Thank you so much for your help and support. I really appreciate it.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "You're welcome. It's my pleasure to help you and your family during this time. Remember, we are here to support you and you will find a way. Don't hesitate to reach out if you need any further assistance.", 'Emotional Response': 'Supportive'}} 
+ {'User Query': 'I hope your husband finds a job soon. Let me know if there is anything else I can do to support him.', 'Conversation History': '[User]I hope your husband finds a job soon. Let me know if there is anything else I can do to support him.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "Thank you for your concern. I appreciate your support and understanding during this time. Your husband's job search is a collaborative effort, and we will work together to find the right opportunity. It may take some time, but with determination and effort, we can make it happen.", 'Emotional Response': 'Coordinated'}} 
+ {'User Query': 'Is there anything else you can do to support me?', 'Conversation History': '[User]Is there anything else you can do to support me?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "Of course, I'm here to support you and your family. Let's continue to explore options and connect you with resources to help you find a job. Remember, you are not alone and we are here to assist you.", 'Emotional Response': 'Assuring'}} 
+ {'User Query': 'Can you tell me about job opportunities in my area?', 'Conversation History': '[User]Can you tell me about job opportunities in my area?', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "I'd be happy to help you with that. Let's start by looking at what's available in your area. We can also connect you with local job placement services to help you find the right opportunity. It may take some time, but with determination and effort, we can find a job that's a good fit for you.", 'Emotional Response': 'Optimistic'}} 
+ {'User Query': 'Thank you so much for your help and support. I really appreciate it.', 'Conversation History': '[User]Thank you so much for your help and support. I really appreciate it.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "You're welcome. It's my pleasure to help you and your family during this time. Remember, we are here to support you and you will find a way. Don't hesitate to reach out if you need any further assistance.", 'Emotional Response': 'Supportive'}} 
+ {'User Query': 'I hope your husband finds a job soon. Let me know if there is anything else
+************************************************************************************************
+
+
+
+
+
+ {'User Query': 'I just moved to this neighborhood and some dumb criminals shot one of my neighbors and ran into the woods!', 'Conversation History': '[User]I was moving into my new neighborhood and was excited to meet my neighbors. But then, one day, I heard about a shooting in my neighborhood. My neighbor was shot and is now in the hospital. I was devastated and scared. I don't know what to do or who to turn to.', 'Event Scenario': 'Neighborhood violence.', 'Rationale': 'The shooting and violence in the neighborhood can cause the user to feel scared, anxious, and worried about their safety and the safety of their loved ones.', 'Goal to Response': 'Providing emotional support and resources for the user.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Empathetic', 'Empathetic Response': "I'm so sorry to hear about the shooting and violence in your neighborhood. It must have been incredibly scary and overwhelming for you to experience such a traumatic event. Please know that you are not alone and that there are resources available to support you and your loved ones through this difficult time.", 'Emotional Response': 'Scared'}.
+************************************************************************************************
+
+
+
+ {'User Query': "I do! I want to be able to protect my son.", 'Event Scenario': 'Neighborhood crime.', 'Rationale': 'The shooting of a neighbor and the presence of criminals in the neighborhood heightens the user's concern for their safety and the safety of their family. The user wants to be able to protect their son.', 'Goal to Response': 'Providing information on how to protect oneself from neighborhood crime.', 'Agent Gender': 'Male', 'Agent Age': 'Adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "I can understand how worried and concerned you must be for your family's safety. It's important to take necessary precautions and stay informed about any potential threats in your neighborhood.", 'Emotional Response': 'Worried'}.
+************************************************************************************************
+
+
+
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?', 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?', 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm going to visit my parents next month![/Agent]Can you tell me how long will it take to get there?", 'User Query': "It will take a few hours by car.", 'Conversation History': '[Agent]How long does it take to get there by car?", 'User Query': "I can't wait to see them!", 'Conversation History': '[Agent]How do you feel about visiting your parents?"}
+ {'User Query': "I'm so excited because I'm finally going to visit my parents next month!", 'Conversation History': '[User]I'm
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Excitement', 'Event Scenario': 'Travel planning', 'Rationale': 'The user is excited about visiting their parents after a long absence.', 'Goal to Response': 'Encouraging and supporting the user's excitement', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Cheerful', 'Empathetic Response': "It's wonderful to hear your excitement about visiting your parents. It must feel great to be reunited with them after such a long time. Is there anything else I can assist you with?"}
+************************************************************************************************
+
+
+
+ {'User Query': "I was very angry when a co worker lied about a car accident to get out of working July 4th. I covered his shift till midnight and he was lying about the accident.", 'Event Scenario': 'Work-related stress.', 'Rationale': 'The coworker's lie about the car accident caused the user to feel betrayed and angry. The user felt responsible for covering the coworker's shift, which added to their stress and frustration.', 'Goal to Response': 'Relieving stress and frustration.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you were really upset and betrayed by your coworker's lie about the car accident. It's understandable that you felt responsible for covering his shift and that added to your stress and frustration.', 'Emotional Response': 'Angry'}.
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Angry', 'Event Scenario': 'Work-related anger.', 'Rationale': 'The coworker's lie about the car accident caused the user to feel angry and betrayed. The user is likely feeling frustrated and disappointed.', 'Goal to Response': 'Empathy and understanding.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Reponse': "I can understand how angry and disappointed you must feel about your coworker's lie. It's important to be honest and transparent in our interactions with others, especially in a work setting.", 'Emotional Response': 'Frustrated'}.
+************************************************************************************************
+
+
+
+ {'User Query': 'So yeah i drove 2 hours to get to Walmart. with 299 in my wallet as advertised, and the real price of the TV was 399 USD. What a bummer.', 'Conversation History': '[User]I was looking forward to buying a new TV at Walmart. When I got there, I found out that the TV I wanted was out of stock.', '[Agent]Are you looking for something else?', '[User]No, I was looking for the TV that was advertised for 299 USD.'}
+
+ {'User Query': 'I can\'t believe I was so stupid. I should have checked the prices before I went to Walmart.', 'Conversation History': '[Agent]You mentioned earlier that you had 299 USD in your wallet. Did you check the prices before you came to Walmart?', '[User]No, I didn\'t. I just wanted to buy the TV that was advertised for 299 USD.'}
+
+ {'User Query': 'I\'m going to have to find another way to get the TV.', 'Conversation History': '[Agent]Are you sure you don\'t want to check the prices again? There might be a way to get the TV for the advertised price.'}
+
+ {'User Query': 'No, I\'m not going to Walmart anymore. I\'m just going to buy it online.', 'Conversation History': '[Agent]Okay, that\'s understandable. Let me know if you change your mind about buying the TV online.', '[User]I\'m not sure yet. I just don\'t want to go back to Walmart and deal with the frustration again.'}
+
+ {'User Query': 'Thanks for your help.', 'Conversation History': '[Agent]You\'re welcome. Is there anything else I can assist you with?'}
+
+ {'User Query': 'No, that\'s all.', 'Conversation History': '[Agent]Okay, feel free to reach out if you have any further questions or concerns.'}User Query:So yeah i drove 2 hours to get to Walmart. with 299 in my wallet as advertised, and the real price of the TV was 399 USD. What a bummer.
+
+ {'User Query': 'I can\'t believe I was so stupid. I should have checked the prices before I went to Walmart.', 'Conversation History': '[Agent]You mentioned earlier that you had 299 USD in your wallet. Did you check the prices before you came to Walmart?', '[User]No, I didn\'t. I just wanted to buy the TV that was advertised for 299 USD.'}
+
+ {'User Query': 'I\'m going to have to find another way to get the TV.', 'Conversation History': '[Agent]Are you sure you don\'t want to check the prices again? There might be a way to get the TV for the advertised price.'}
+
+ {'User Query': 'No, I\'m not going to Walmart anymore. I\'m just going to buy it online.', 'Conversation History': '[Agent]Okay, that\'s understandable. Let me know if you change your mind about buying the TV online.', '[User]I\'m not sure yet. I just don\'t want to go back to Walmart and deal with the frustration again.'}
+
+ {'User Query': 'Thanks for your help.', 'Conversation History': '[Agent]You\'re welcome. Is there anything else I can assist you with?'}
+
+ {'User Query': 'No, that\'s all.', 'Conversation History': '[Agent]Okay, feel free to reach out if you have any further questions or concerns.'}User Query:So yeah i drove 2 hours to get to Walmart. with 299 in my wallet as advertised, and the real price of the TV was 399 USD. What a bummer.
+
+ {'User Query': 'I can\'t believe I was so stupid. I should have checked the prices before I went to Walmart.', 'Conversation History': '[Agent]You mentioned earlier that you had 299 USD in your wallet. Did you check the prices before you came to Walmart?', '[User]No, I didn\'t. I just wanted to buy the TV that was advertised for 299 USD.'}
+
+ {'User Query': 'I\'m going to have to find another way to get the TV.', 'Conversation History': '[Agent]Are you sure you don\'t want to check the prices again? There might be a way to get the TV for the advertised price.'}
+
+ {'User Query': 'No, I\'m not going to Walmart anymore. I\'m just going to buy it online.', 'Conversation History': '[Agent]Okay, that\'s understandable. Let me know if you change your mind about buying the TV online.', '[User]I\'m not sure yet. I just don\'t want to go back to Walmart and deal with the frustration again.'}
+
+ {'User Query': 'Thanks for your help.', 'Conversation History': '[Agent]You\'re welcome. Is there anything else I can assist you with?'}
+
+ {'User Query': 'No, that\'s all.', 'Conversation History': '[Agent]Okay, feel free to reach out if you have any further questions or concerns.'}User Query:So yeah i drove 2 hours to get to Walmart. with 299 in my wallet as advertised, and the real price of the TV was 399 USD. What a bummer.
+
+ {'User Query': 'I can\'t believe I was so stupid. I should have checked the prices before I went to Walmart.', 'Conversation History': '[Agent]You mentioned earlier that you had 299 USD in your wallet. Did you check the prices before you came to Walmart?', '[User]No, I didn\'t. I just wanted to buy the TV that was advertised for 299 USD.'}
+
+ {'User Query': 'I\'m going to have to find another way to get the TV.', 'Conversation History': '[Agent]Are you sure you don\'t want to check the prices again? There might be a way to get the TV for the advertised price.'}
+
+ {'User Query': 'No, I\'m not going to Walmart anymore. I\'m just going to buy it online.', 'Conversation History': '[Agent]Okay, that\'s understandable. Let me know if you change your mind about buying the TV online.', '[User]I\'m not sure yet. I just don\'t want to go back to Walmart and deal with the frustration again.'}
+
+ {'User Query': 'Thanks for your help.', 'Conversation History': '[Agent]You\'re welcome. Is there anything else I can assist you with?'}
+
+ {'User Query': 'No, that\'s all.', 'Conversation History': '[Agent]Okay, feel free to reach out if you have any further questions or concerns.'}User Query:So yeah i drove 2 hours to get to Walmart. with 299 in my wallet as advertised, and the real price of the TV was 399 USD. What a bummer.
+
+ {'User Query': 'I can\'t believe I was so stupid. I should have checked the prices before I went to Walmart.', 'Conversation History': '[Agent]You mentioned earlier that you had 299 USD in your wallet. Did you check the prices before you came to Walmart?', '[User]No, I didn\'t. I just wanted to buy the TV that was advertised for 299 USD.'}
+
+ {'User Query': 'I\'m going to have to find another way to get the TV.', 'Conversation History': '[Agent]Are you sure you don\'t want to check the prices again? There might be a way to get the TV for the advertised price.'}
+
+ {'User Query': 'No, I\'m not going to Walmart anymore. I\'m just going to buy it online.', 'Conversation History': '[Agent]Okay, that\'s understandable. Let me know if you change your mind about buying the TV online.', '[User]I\'m not sure yet. I just don\'t want to go back to Walmart and deal with the frustration again.'}
+
+ {'User Query': 'Thanks for your help.', 'Conversation History': '[Agent]You\'re welcome. Is there anything else I can assist you with?'}
+
+ {'User Query': 'No, that\'s all.', 'Conversation History': '[Agent]Okay, feel free to reach out if you have any further questions or concerns.'}User Query:So yeah i drove 2 hours to get to Walmart. with 299 in my wallet as advertised, and the real price of the TV was 399
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Disappointment', 'Event Scenario': 'Shopping trip', 'Rationale': 'The user had high hopes and expectations for the TV, but the actual price was lower than advertised, leading to disappointment and frustration.', 'Goal to Response': '提供安慰和鼓励', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Soft', 'Empathetic Response': "I'm sorry to hear that the TV was not as expensive as advertised. It can be really disappointing and frustrating when our expectations are not met. But please don't worry, this experience will make you stronger and more resilient in the future.", 'Emotional Response': 'Sad'
+************************************************************************************************
+
+
+
+ {'User Query': "I feel really bad about what happened with my friend's boyfriend. I'm married and a good friend of his girlfriend, so I felt really uncomfortable and hurt. I made sure to tell him that I was loyal and honest to both of them!", 'Event Scenario': "Relationship difficulties.', 'Rationale': 'A romantic advance towards a friend's partner creates feelings of discomfort and hurt, especially when the friend is also a close friend of the target.', 'Goal to Response': 'Providing emotional support and guidance.', 'Agent Gender': 'Female', 'Agent Age': 'Adults', 'Agent Timbre and Tone': 'Empathetic', 'Empathetic Response': "I'm sorry to hear that you had to deal with that. It must have been really difficult for you to handle, especially since you are a good friend of his girlfriend and also married. I can understand how hurt and uncomfortable you must have felt.', 'Emotional Response': 'Hurt'}. Here is the output you need: {'Emotion Cause': 'Hurt', 'Event Scenario': 'Relationship difficulties.', 'Rationale': 'A romantic advance towards a friend\'s partner creates feelings of discomfort and hurt, especially when the friend is also a close friend of the target.', 'Goal to Response': 'Providing emotional support and guidance.', 'Agent Gender': 'Female', 'Agent Age': 'Adults', 'Agent Timbre and Tone': 'Empathetic', 'Empathetic Response': "I understand how difficult it must have been for you to handle the situation with your friend's boyfriend. It's understandable that you are hurt and uncomfortable, especially since you are a good friend of his girlfriend and also married. I want you to know that I am here to support you and guide you through this difficult time.', 'Emotional Response': 'Hurt'}.
+************************************************************************************************
+
+
+
+ {'User Query': "I struggled with it, but my friend was in a really bad spot, with no income and raising her grandchild, he was the financial supporter. So, I didn't tell her, as I knew it would really hurt her in several ways, plus she really loves him!", 'Conversation History': '[User]My friend's boyfriend recently made a pass at me. I'm married, and I also am really good friend's with his girlfriend so I felt really bad. I made sure he knew I was loyal and honest to both![Agent]Thats horrible. Did you tell on him?', 'Rationale': 'The user is experiencing internal conflict and struggling with the decision of whether to report her friend's boyfriend's inappropriate behavior to her friend or not.', 'Goal to Response': 'Helping the user navigate the situation and make a decision', 'Agent Gender': 'Female', 'Agent Age': 'Adult', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you're in a difficult situation. Being a good friend and protecting your friend's feelings are important, but it's also important to consider your own well-being and the potential consequences of your actions. It might be helpful to talk to someone about your feelings and get their perspective on the situation.", 'Emotional Response': 'Nervous'}.
+************************************************************************************************
+
+
+
+ {'User Query': 'my baby is sleeping', 'Conversation History': '[User]My baby is sleeping. [Agent]Is there anything else you need assistance with?'}
+
+Output:
+
+{
+'Emotion Cause': 'Baby sleeping',
+'Event Scenario': 'Baby sleep',
+'Rationale': 'Babies typically require a lot of sleep, as it is a crucial part of their development. The peaceful and quiet environment helps to promote sleep.',
+'Goal to Response': 'Assuring the user that their baby is safe and sound',
+'Agent Gender': 'Female',
+'Agent Age': 'Middle-aged adults',
+'Agent Timbre and Tone': 'Soft',
+'Empathetic Response': "It's wonderful to see your baby sleeping peacefully. Babies need a lot of sleep, so it's important to ensure they are safe and comfortable. Is there anything else you need assistance with?",
+'Emotional Response': ' content'
+}
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Baby sleeping peacefully', 'Event Scenario': 'Baby sleep', 'Rationale': 'Babies require a lot of care and attention, especially when they are young. The peacefulness of a sleeping baby can evoke feelings of joy and contentment in parents.', 'Goal to Response': 'Encouraging baby sleep', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "It's wonderful to see your baby sleeping peacefully. It's a reminder of the simple pleasures in life that we often take for granted. As a parent, you know how important it is to ensure their safety and well-being.", 'Emotional Response': 'Happy'}.
+************************************************************************************************
+
+
+
+ {'User Query': 'hi, i feel so lonely sometimes because all my friends live in a different country', 'Conversation History': '[User]I feel lonely sometimes because all my friends live in a different country. [Agent]Can you tell me how I can feel less lonely?', 'Event Scenario': 'Social isolation', 'Rationale': 'Feeling lonely due to social isolation can cause emotional distress.', 'Goal to Response': 'Providing solutions to alleviate feelings of loneliness', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "I understand how difficult it must be to feel lonely and isolated, especially when your friends are far away. It's important to remember that you have options to connect with others and find ways to alleviate your feelings of loneliness.", 'Emotional Response': 'Hopeful'}. Based on the provided conversation, the chatbot's response should aim to provide the user with solutions to alleviate their feelings of loneliness. The chatbot should also acknowledge the user's emotions and provide a supportive and empathetic response. The chatbot should use a clear and confident tone to communicate its response. The chatbot's gender and age should be selected based on the user's needs.
+************************************************************************************************
+
+
+
+ {'User Query': "i was thinking about it! I wanted to join a group for local moms", 'Conversation History': '[User]hi, i feel so lonely sometimes because all my friends live in a different country[Agent]Oh, I'm sure you are lonely. Maybe you can join some kind of club that lets you meet new friends?', 'Event Scenario': 'Joining a club for local moms to meet new friends', 'Rationale': 'The user is feeling lonely and wants to find a way to connect with other local moms to fill the void created by the absence of their friends.', 'Goal to Response': 'Finding a solution to the user's loneliness', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged Adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like joining a club for local moms could be a great way to meet new friends and fill your social calendar. I hope you find the courage to take that step and make new connections.", 'Emotional Response': 'Hopeful'}.
+************************************************************************************************
+
+
+
+ {'User Query': "I have a friend that has a child that is unruly and does bad things. One day at our home, he grabbed a game and sat on it, instantly breaking it! It was expensive and this really irked me, especially because she doesn't discipline him when he does bad things.", 'Event Scenario': "Negative experience with a friend's child.", 'Rationale': "The user is upset because of the destruction of an expensive item and the lack of discipline from the friend. The user feels frustrated and disappointed.", 'Goal to Response': "Providing emotional support and guidance on how to handle the situation.", 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "I can understand how frustrating it must have been for you to see the destruction of your expensive item and the lack of discipline from her child. It's understandable that you feel upset and disappointed.", 'Emotional Response': 'Frustrated'}. Based on the provided conversation, here is the output: {'Emotion Cause': 'Frustration', 'Event Scenario': 'Negative experience with a friend's child.', 'Rationale': 'The user is upset because of the destruction of an expensive item and the lack of discipline from the friend. The user feels frustrated and disappointed.', 'Goal to Response': 'Providing emotional support and guidance on how to handle the situation.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "I can understand how frustrating it must have been for you to see the destruction of your expensive item and the lack of discipline from her child. It's understandable that you feel upset and disappointed.", 'Emotional Response': 'Frustrated'}.
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Frustration', 'Event Scenario': 'Expensive item damage.', 'Rationale': 'The user is frustrated with the behavior of her friend's child and the lack of discipline shown by the friend. The expensive item damage is a trigger for the user's frustration.', 'Goal to Response': 'Reassuring and calming the user's emotions.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged Adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you're having a tough time with your friend's child's behavior. It can be really frustrating when kids don't listen or respect our boundaries. I understand that you're looking for guidance on how to handle the situation. Would you like some advice on how to set clear consequences and boundaries for children?", 'Emotional Response': 'Frustrated'}.
+************************************************************************************************
+
+
+
+ {'User Query': 'I'm so scared of bugs! i found one in my hair yesterday and almost died.', 'Conversation History': '[User]I was walking in the park and I saw a bug in my hair. I tried to swat it away but it came back and I couldn\'t get it out. I\'m so scared of bugs!', 'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Finding a bug in one\'s hair can cause individuals to feel scared and uncomfortable, especially if they are afraid of bugs.', 'Goal to Response': 'Assuring and calming the user.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It's normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Scared'}. Here is the output you need: {'Emotion Cause': 'Fear of bugs.', 'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Finding a bug in one\'s hair can cause individuals to feel scared and uncomfortable, especially if they are afraid of bugs.', 'Goal to Response': 'Assuring and calming the user.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Relieved'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Safe'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Secure'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Assured'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Comforted'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Safe'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Secure'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Assured'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Comforted'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Secure'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your hair. It\'s normal to feel a little scared or uncomfortable in such situations. But don\'t worry, there\'s nothing to be afraid of.", 'Emotional Response': 'Comforted'}. {'Event Scenario': 'Paranoid about bugs.', 'Rationale': 'Fear of bugs can cause individuals to feel uncomfortable and scared.', 'Goal to Response': 'Easing the user\'s fear.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "I understand how scary it must have been to find a bug in your
+************************************************************************************************
+
+
+
+ {'User Query': "I recently spoke with my ex-girlfriend on the phone. The conversation went pretty well, and it reminded me of my past experiences with her.", 'Conversation History': '[User]I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?', 'Event Scenario': 'Reliving past memories.', 'Rationale': 'Reliving past experiences with an ex-girlfriend can evoke a mix of emotions, including happiness and sadness. It may also bring up unresolved feelings or conflicts that need to be addressed.', 'Goal to Response': 'Finding closure and moving on.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you had some positive experiences with your ex-girlfriend, and it's natural to want to remember those good times. However, it's also important to acknowledge and address any negative emotions that may arise from reliving those memories.", 'Emotional Response': 'Nostalgic'}. {'User Query': "I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?", 'Conversation History': '[User]I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?', 'Event Scenario': 'Reliving past memories.', 'Rationale': 'Reliving past experiences with an ex-girlfriend can evoke a mix of emotions, including happiness and sadness. It may also bring up unresolved feelings or conflicts that need to be addressed.', 'Goal to Response': 'Finding closure and moving on.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you had some positive experiences with your ex-girlfriend, and it's natural to want to remember those good times. However, it's also important to acknowledge and address any negative emotions that may arise from reliving those memories.", 'Emotional Response': 'Nostalgic'}. {'User Query': "I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?", 'Conversation History': '[User]I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?', 'Event Scenario': 'Reliving past memories.', 'Rationale': 'Reliving past experiences with an ex-girlfriend can evoke a mix of emotions, including happiness and sadness. It may also bring up unresolved feelings or conflicts that need to be addressed.', 'Goal to Response': 'Finding closure and moving on.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you had some positive experiences with your ex-girlfriend, and it's natural to want to remember those good times. However, it's also important to acknowledge and address any negative emotions that may arise from reliving those memories.", 'Emotional Response': 'Nostalgic'}. {'User Query': "I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?", 'Conversation History': '[User]I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?', 'Event Scenario': 'Reliving past memories.', 'Rationale': 'Reliving past experiences with an ex-girlfriend can evoke a mix of emotions, including happiness and sadness. It may also bring up unresolved feelings or conflicts that need to be addressed.', 'Goal to Response': 'Finding closure and moving on.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you had some positive experiences with your ex-girlfriend, and it's natural to want to remember those good times. However, it's also important to acknowledge and address any negative emotions that may arise from reliving those memories.", 'Emotional Response': 'Nostalgic'}. {'User Query': "I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?", 'Conversation History': '[User]I was thinking about my past experiences with my ex-girlfriend. It was a difficult relationship, but it was also filled with good memories. [Agent]Can you tell me more about those good memories?', 'Event Scenario': 'Reliving past memories.', 'Rationale': 'Reliving past experiences with an ex-girlfriend can evoke a mix of emotions, including happiness and sadness. It may also bring up unresolved feelings or conflicts that need to be addressed.', 'Goal to Response': 'Finding closure and moving on.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Response': "It sounds like you had some positive experiences with your ex-girlfriend, and it's natural to want to remember those good times. However, it's also important to acknowledge and address any negative emotions that may arise from reliving those memories.", 'Emotional Response': 'Nostalgic'}}
+************************************************************************************************
+
+
+
+ {'User Query': 'Yes, they ended somewhat well, but there were tense moments. I am glad she's doing well, but I miss her.', 'Event Scenario': 'Relationship with ex-girlfriend.', 'Rationale': 'The conversation brought back memories of a previous relationship, which may have caused feelings of nostalgia and longing.', 'Goal to Response': 'Providing emotional support and guidance.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Warm', 'Empathetic Response': "It sounds like you had a mixed experience with your ex-girlfriend. It's natural to feel a mix of emotions when you're talking to someone you have a past with. I hope you're doing well and that things are getting better.",' Emotional Response': 'Sad'}.
+************************************************************************************************
+
+
+
+ {'User Query': "One of the times I remember feeling the most blissed out in life was right after the birth of my first child.", 'Conversation History': '[User]I was overjoyed and couldn\'t stop smiling. I felt like I was on top of the world.\n[Agent]Congratulations on the birth of your child! Is there anything you need help with?\"}
+
+ {'User Query': "I was so happy and content. It was a magical time for me and my family.", 'Conversation History': '[Agent]It sounds like you had a wonderful experience. Would you like to share it with me more?\"}
+
+ {'User Query': "Yes, I remember feeling so happy and content. It was a great feeling that I still remember today.", 'Conversation History': '[Agent]That\'s great to hear. It\'s important to cherish those memories and appreciate the special moments in life.\n[User]Thank you for your kind words. I feel grateful for my child and the love my family has for me.\n[Agent]You\'re welcome. Is there anything else you\'d like to talk about?"}
+
+ {'User Query': "I\'m so glad I have my child. They bring so much joy and love into my life.", 'Conversation History': '[Agent]It\'s wonderful to hear how happy you are with your child. Is there anything specific that makes them so special to you?\"}
+
+ {'User Query': "They\'re growing up so fast and it\'s hard to keep up with them. But it\'s also exciting to see them develop and grow.", 'Conversation History': '[Agent]They\'re certainly growing up quickly. It\'s important to cherish every moment with them and enjoy the process of watching them grow.\n[User]Thank you for your advice. I will try my best to do just that.\n[Agent]You\'re welcome. Is there anything else you\'d like to discuss?"}User Query:One of the times I remember feeling the most blissed out in life was right after the birth of my first child.
+
+ {'User Query': "One of the times I remember feeling the most blissed out in life was right after the birth of my first child.", 'Conversation History': '[User]I was overjoyed and couldn\'t stop smiling. I felt like I was on top of the world.\n[Agent]Congratulations on the birth of your child! Is there anything you need help with?\"}
+
+ {'User Query': "I was so happy and content. It was a magical time for me and my family.", 'Conversation History': '[Agent]It sounds like you had a wonderful experience. Would you like to share it with me more?\"}
+
+ {'User Query': "Yes, I remember feeling so happy and content. It was a great feeling that I still remember today.", 'Conversation History': '[Agent]That\'s great to hear. It\'s important to cherish those memories and appreciate the special moments in life.\n[User]Thank you for your kind words. I feel grateful for my child and the love my family has for me.\n[Agent]You\'re welcome. Is there anything else you\'d like to talk about?"}
+
+ {'User Query': "I\'m so glad I have my child. They bring so much joy and love into my life.", 'Conversation History': '[Agent]It\'s wonderful to hear how happy you are with your child. Is there anything specific that makes them so special to you?\"}
+
+ {'User Query': "They\'re growing up so fast and it\'s hard to keep up with them. But it\'s also exciting to see them develop and grow.", 'Conversation History': '[Agent]They\'re certainly growing up quickly. It\'s important to cherish every moment with them and enjoy the process of watching them grow.\n[User]Thank you for your advice. I will try my best to do just that.\n[Agent]You\'re welcome. Is there anything else you\'d like to discuss?"}User Query:One of the times I remember feeling the most blissed out in life was right after the birth of my first child.
+
+ {'User Query': "One of the times I remember feeling the most blissed out in life was right after the birth of my first child.", 'Conversation History': '[User]I was overjoyed and couldn\'t stop smiling. I felt like I was on top of the world.\n[Agent]Congratulations on the birth of your child! Is there anything you need help with?\"}
+
+ {'User Query': "I was so happy and content. It was a magical time for me and my family.", 'Conversation History': '[Agent]It sounds like you had a wonderful experience. Would you like to share it with me more?\"}
+
+ {'User Query': "Yes, I remember feeling so happy and content. It was a great feeling that I still remember today.", 'Conversation History': '[Agent]That\'s great to hear. It\'s important to cherish those memories and appreciate the special moments in life.\n[User]Thank you for your kind words. I feel grateful for my child and the love my family has for me.\n[Agent]You\'re welcome. Is there anything else you\'d like to discuss?"}
+
+ {'User Query': "I\'m so glad I have my child. They bring so much joy and love into my life.", 'Conversation History': '[Agent]It\'s wonderful to hear how happy you are with your child. Is there anything specific that makes them so special to you?\"}
+
+ {'User Query': "They\'re growing up so fast and it\'s hard to keep up with them. But it\'s also exciting to see them develop and grow.", 'Conversation History': '[Agent]They\'re certainly growing up quickly. It\'s important to cherish every moment with them and enjoy the process of watching them grow.\n[User]Thank you for your advice. I will try my best to do just that.\n[Agent]You\''re welcome. Is there anything else you\'d like to discuss?"}
+************************************************************************************************
+
+
+
+ {'Emotion Cause': 'Blessed', 'Event Scenario': 'Childbirth', 'Rationale': 'The joy and excitement of meeting a new child, combined with the love surrounding the situation, can create a very positive and blissful experience.', 'Goal to Response': 'Celebrating the joy of new parenthood.', 'Agent Gender': 'Female', 'Agent Age': 'Middle-aged adults', 'Agent Timbre and Tone': 'Melodious', 'Empathetic Response': "It's wonderful to hear about the joy of meeting your first child and experiencing the love surrounding the situation. Congratulations on the new addition to your family.", 'Emotional Response': 'Happy'}.
+************************************************************************************************
+
+
+
+ {'User Query': "Have you ever been in a situation when payment of some kind has come through *just* in the nick of time?! Talk about gratitude!", 'Conversation History': '[User]I was in a tight spot and needed the money quickly. [Agent]Did you know that there are ways to get a quick loan?', 'User Query': "That's really helpful! Can you tell me more about the different ways to get a quick loan?"}
+ {'User Query': "Thanks for the information! I appreciate it. I was able to get a loan and pay off my debts.}, [Agent]You're welcome! I'm glad I could help. If you need anything else, feel free to ask."}
+
+Output:
+
+{'Emotion Cause': 'Grateful', 'Event Scenario': 'Need for quick loan', 'Rationale': 'Need for quick loan resulted in gratitude towards the agent for providing assistance.', 'Goal to Response': 'Providing information on ways to get a quick loan.', 'Agent Gender': 'Female', 'Agent Age': 'Young adults', 'Agent Timbre and Tone': 'Clear', 'Empathetic Reponse': "It's great to hear that you were able to get the loan and pay off your debts. It must have been a really stressful situation for you, and I'm glad that our conversation helped.", 'Emotional Response': 'Grateful'}}
+************************************************************************************************
+
+
+
+{"Emotion Cause": "Gratitude", "Event Scenario": "Payment received at the last moment", "Rationale": "The payment coming through at the last moment can bring relief and gratitude to individuals. It can also provide a sense of relief and hope for the future. However, the initial experience of being in such a situation can be overwhelming and stressful.", "Goal to Response": "To express gratitude and provide reassurance", "Agent Gender": "Female", "Agent Age": "Middle-aged Adults", "Agent Timbre and Tone": "Clear", "Empathetic Response": "It's great to hear that the payment came through at the last moment and that you were able to avoid any further stress or financial difficulties. It's understandable that the initial experience of being in such a situation can be overwhelming and stressful. Thank you for sharing and expressing your gratitude.", "Emotional Response": "Relieved"}.
+************************************************************************************************
