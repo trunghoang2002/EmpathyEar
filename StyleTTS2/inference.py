@@ -6,6 +6,7 @@ import os
 import numpy as np
 from StyleTTS2.styletts2 import StyleTTS2
 from scipy.io import wavfile
+import json
 
 def main():
     torch.manual_seed(0)
@@ -17,22 +18,13 @@ def main():
     # Argument Parser Setup
     parser = argparse.ArgumentParser()
     parser.add_argument("--device", type=str, default="cuda:0", help="Device to use for computation")
-    parser.add_argument("--test-data", type=str, default="Data/empathetic-dialogue-emb/sys_dialog_texts.test.npy")
+    parser.add_argument("--test-data", type=str, default="Data/Test_tts/test_data.json")
     parser.add_argument("--wav_save_path", type=str, default="TTS_results/ED_test/")
     args = parser.parse_args()
 
-    test_data = [{
-        "User Query": "I was really looking forward to it. I can't wait to see my favorite band perform live!",
-        "Conversation History": "[User]Are you excited to go to the concert? [Agent]Yes, I am very excited to go to the concert!",
-        "Event Scenario": "Concert-related excitement.",
-        "Rationale": "The user is expressing excitement and anticipation for the concert.",
-        "Goal to Response": "Encouraging excitement and reminding of the benefits of the concert.",
-        "Agent Gender": "Female",
-        "Agent Age": "Young adults",
-        "Agent Timbre and Tone": "Energetic",
-        "Empathetic Response": "It sounds like you're both really excited for the concert! I can understand how much fun you'll have watching your favorite band perform live. Don't forget to enjoy the music and the atmosphere.",
-        "Emotional Response": "Excited"
-    }]
+    with open(args.test_data, 'r', encoding='utf-8') as f:
+        test_data = json.load(f)
+        
     for num, test_dia in enumerate(test_data):
         wav_save_path = args.wav_save_path + f'test{num+1}'
         if not os.path.exists(wav_save_path):
@@ -48,8 +40,8 @@ def main():
         #TTS for response text
         tts = StyleTTS2()
         agent_timbre_tone = test_dia["Agent Timbre and Tone"]
-        agent_gender = test_dia["Agent Age"]
-        empathetic_response = test_data["Empathetic Response"]
+        agent_gender = test_dia["Agent Gender"]
+        empathetic_response = test_dia["Empathetic Response"]
         if agent_gender=='Female':
             wav_file = "StyleTTS2/Demo/reference_audio/W/" + agent_timbre_tone.lower() + '.wav'
         elif agent_gender=='Male':

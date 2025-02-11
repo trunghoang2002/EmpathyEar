@@ -1,0 +1,14 @@
+[
+    {
+        "User Query": "I was really looking forward to it. I can't wait to see my favorite band perform live!",
+        "Conversation History": "[User]Are you excited to go to the concert? [Agent]Yes, I am very excited to go to the concert!",
+        "Event Scenario": "Concert-related excitement.",
+        "Rationale": "The user is expressing excitement and anticipation for the concert.",
+        "Goal to Response": "Encouraging excitement and reminding of the benefits of the concert.",
+        "Agent Gender": "Female",
+        "Agent Age": "Young adults",
+        "Agent Timbre and Tone": "Energetic",
+        "Empathetic Response": "It sounds like you're both really excited for the concert! I can understand how much fun you'll have watching your favorite band perform live. Don't forget to enjoy the music and the atmosphere.",
+        "Emotional Response": "Excited"
+    }
+]
