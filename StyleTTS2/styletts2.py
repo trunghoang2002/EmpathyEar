@@ -32,15 +32,15 @@ class StyleTTS2:
 
     def initialize_model(self):
         # load pretrained ASR model
-        ASR_config = self.config.get('ASR_config', False)
-        ASR_path = self.config.get('ASR_path', False)
+        ASR_config = "StyleTTS2/" + self.config.get('ASR_config', False)
+        ASR_path = "StyleTTS2/" + self.config.get('ASR_path', False)
         text_aligner = load_ASR_models(ASR_path, ASR_config)
         # load pretrained F0 model
-        F0_path = self.config.get('F0_path', False)
+        F0_path = "StyleTTS2/" + self.config.get('F0_path', False)
         pitch_extractor = load_F0_models(F0_path)
 
         # load BERT model
-        BERT_path = self.config.get('PLBERT_dir', False)
+        BERT_path = "StyleTTS2/" + self.config.get('PLBERT_dir', False)
         plbert = load_plbert(BERT_path)
         model_params = recursive_munch(self.config['model_params'])
         model = build_model(model_params, text_aligner, pitch_extractor, plbert)

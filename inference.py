@@ -208,9 +208,15 @@ def main():
             text_response = add_quotes_if_missing(text_response)
 
             # 将字符串解析为字典
-            pattern =  r'"([^"]+)"\s*:\s*([^,]+)'
+            # old
+            # pattern =  r'"([^"]+)"\s*:\s*([^,]+)'
+            # matches = re.findall(pattern, text_response)
+            # data = {key: value for key, value in matches}
+            # new
+            pattern = r"""(['"])([^'"]+)\1\s*:\s*(['"])([^'"]+)\3"""
             matches = re.findall(pattern, text_response)
-            data = {key: value for key, value in matches}
+            data = {key: value for _, key, _, value in matches}
+
             emotion_cause = data["Emotion Cause"].strip('"')
             event_scenario =  data["Event Scenario"].strip('"')
             rationale = data["Rationale"].strip('"')
@@ -227,7 +233,9 @@ def main():
                     emotion_type = "neu"
             else:
                 emotional_response = "neu"
-        except:
+        except Exception as e:
+            print("Error: The response format is incorrect.")
+            print(e)
             continue
 
 
