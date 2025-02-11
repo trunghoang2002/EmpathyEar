@@ -7,7 +7,7 @@
     "Agent Timbre and Tone": "Clear",
     "Agent Gender": "Female",
     "Agent Age": "Middle-aged adults",
-    "Empathetic Reponse": "I can understand how traumatic it must have been for you to almost get hit by a drunk driver. It's important to remember that accidents can happen to anyone and that you shouldn't feel guilty for someone else's mistake. It's important to take care of yourself and seek support if you need it.",
+    "Empathetic Response": "I can understand how traumatic it must have been for you to almost get hit by a drunk driver. It's important to remember that accidents can happen to anyone and that you shouldn't feel guilty for someone else's mistake. It's important to take care of yourself and seek support if you need it.",
 }
 ************************************************************************************************
 

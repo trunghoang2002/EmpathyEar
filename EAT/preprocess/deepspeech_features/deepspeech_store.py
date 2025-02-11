@@ -121,13 +121,13 @@ def _download(url, path=None, overwrite=False, sha1_hash=None, retries=5, verify
             # pylint: disable=W0703
             try:
                 print("Downloading {} from {}...".format(fname, url))
-                #r = requests.get(url, stream=True, verify=verify_ssl)
-                #if r.status_code != 200:
-                #    raise RuntimeError("Failed downloading url {}".format(url))
-                #with open(fname, "wb") as f:
-                #    for chunk in r.iter_content(chunk_size=1024):
-                #        if chunk:  # filter out keep-alive new chunks
-                #            f.write(chunk)
+                r = requests.get(url, stream=True, verify=verify_ssl)
+                if r.status_code != 200:
+                   raise RuntimeError("Failed downloading url {}".format(url))
+                with open(fname, "wb") as f:
+                   for chunk in r.iter_content(chunk_size=1024):
+                       if chunk:  # filter out keep-alive new chunks
+                           f.write(chunk)
                 if sha1_hash and not _check_sha1(fname, sha1_hash):
                     raise UserWarning("File {} is downloaded but the content hash does not match."
                                       " The repo may be outdated or download may be incomplete. "

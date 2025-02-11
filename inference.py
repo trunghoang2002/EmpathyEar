@@ -83,8 +83,8 @@ def read_npy(npy_path):
     data = np.load(npy_path, allow_pickle=True)
     for i, dia in enumerate(data):
         history = ""
-        if len(data) > 1:
-            for dia_num in range(len(data[i])-1):
+        if len(dia) > 1:
+            for dia_num in range(len(dia)-1):
                 if dia_num % 2 == 0:
                     utt = '[user]' + dia[dia_num]
                 else:
